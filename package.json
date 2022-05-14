@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/AksenovKirill/frontend-project-lvl2/issues"
   },
-  "homepage": "https://github.com/AksenovKirill/frontend-project-lvl2#readme"
+  "homepage": "https://github.com/AksenovKirill/frontend-project-lvl2#readme",
+  "dependencies": {
+    "make": "^0.8.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
 }
